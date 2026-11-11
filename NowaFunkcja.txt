@@ -1,0 +1,2 @@
+Tekst nowej funkcji w pliku tekstowym.
+Opis jest krótki i zwięzły, aby łatwo było zrozumieć jej działanie.
